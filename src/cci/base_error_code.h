@@ -1625,7 +1625,10 @@
 #define ER_TDE_MAX_KEY_FILE                         -1262
 #define ER_TDE_ENCRYPTION_LOGPAGE_ERORR_AND_OFF_TDE -1263
 
-#define ER_LAST_ERROR                               -1264
+#define ER_OOS_HISTORY_ACTIVATION_REQUIRED           -1385
+#define ER_OOS_HISTORY_REQUIRES_CLEAN_SHUTDOWN       -1386
+
+#define ER_LAST_ERROR                               -1387
 
 /*
  * CAUTION!
