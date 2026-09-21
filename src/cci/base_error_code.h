@@ -1625,12 +1625,12 @@
 #define ER_TDE_MAX_KEY_FILE                         -1262
 #define ER_TDE_ENCRYPTION_LOGPAGE_ERORR_AND_OFF_TDE -1263
 
-#define ER_OOS_HISTORY_ACTIVATION_REQUIRED           -1385
-#define ER_OOS_HISTORY_REQUIRES_CLEAN_SHUTDOWN       -1386
+#define ER_OOS_HISTORY_ACTIVATION_REQUIRED           -1387
+#define ER_OOS_HISTORY_REQUIRES_CLEAN_SHUTDOWN       -1388
 
-#define ER_CDC_LEGACY_OOS_IMAGE                      -1387
-#define ER_CDC_INVALID_HISTORY_IMAGE                -1388
-#define ER_LAST_ERROR                               -1389
+#define ER_CDC_LEGACY_OOS_IMAGE                      -1389
+#define ER_CDC_INVALID_HISTORY_IMAGE                -1390
+#define ER_LAST_ERROR                               -1391
 
 /*
  * CAUTION!
